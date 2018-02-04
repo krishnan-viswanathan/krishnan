@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Krishnan Viswanathan"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+#disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
 #googleAnalytics = ""
 # Define how many posts should appear on a site
