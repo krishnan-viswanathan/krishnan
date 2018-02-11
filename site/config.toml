@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "Musings about Data, Tools, Transportation, Politics, and Food"
   cover = "images/slot_canyon.jpg"
   author = "Krishnan Viswanathan"
   authorlocation = " "
