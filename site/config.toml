@@ -15,7 +15,7 @@ canonifyurls = true
   author = "Krishnan Viswanathan"
   authorlocation = " "
   authorwebsite = " "
-  bio= "my bio"
+  bio= " "
   logo = "images/logo.png"
   #googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
