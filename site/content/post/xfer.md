@@ -9,7 +9,7 @@ We are working with a client to evaluate performance measures and are using the 
 
 What's the fun in transferring files in portable devices. So I thought I would be interesting to see if the files can be compressed into a smaller size and then sent via FTP. For testing I used a CSV file I have that has 1.6M records and 7 variables and has a size of 935MB. 
 
-So as a first step, I thought I would use HDF5 since I recall reading it is very efficient for large files (https://stackoverflow.com/questions/16639877/hdf5-taking-more-space-than-csv and https://github.com/pandas-dev/pandas/issues/3651). Below is my python code for converting CSV to HDF. 
+So as a first step, I thought I would use HDF5 since I recall reading it is very efficient for large files (https://github.com/pandas-dev/pandas/issues/3651). Below is my python code for converting CSV to HDF. 
 
 - Input File: 935 MB CSV File
 - Output File: 1.35 GB HDF5 File
