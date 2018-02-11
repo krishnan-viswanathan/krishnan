@@ -18,7 +18,6 @@ So as a first step, I thought I would use HDF5 since I recall reading it is very
 
 # System information - Python 3.6.1
 # Import numpy, pandas, and time and all the functions from pandas
-# Time is just used to check runtime
 
 import numpy as np
 import pandas as pd
